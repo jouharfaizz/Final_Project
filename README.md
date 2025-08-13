@@ -6,7 +6,7 @@ Welcome to the **Car Price Prediction** project! This project demonstrates how m
 
 ## 📁 Files
 
-* `car_price_prediction.ipynb` – Main Jupyter notebook with full implementation
+* `final_pro.ipynb` – Main Jupyter notebook with full implementation
 * `Used_Cars_Dataset.csv` – Dataset from [data.world](https://data.world/data-society/used-cars-data)
 * `README.md` – Project overview
 
